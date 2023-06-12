@@ -31,5 +31,5 @@
 
 ## 8. 실행 화면
 - 민감 정보는 전부 검은색으로 마스킹 처리했습니다.
-- ![image](https://github.com/fjybjinsu/ControlIntegration/assets/85774577/e30442b2-b8cd-4d68-80b3-696860b37dfa)
+![image](https://github.com/fjybjinsu/ControlIntegration/assets/85774577/e30442b2-b8cd-4d68-80b3-696860b37dfa)
 
